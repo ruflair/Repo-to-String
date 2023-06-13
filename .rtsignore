@@ -1,0 +1,9 @@
+#example for an .rtsignore file
+.git
+.idea
+.dockerignore
+.env
+.gitignore
+fly.toml
+go.mod
+go.sum
